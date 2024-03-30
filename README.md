@@ -7,7 +7,6 @@ This is a simple calculator built using React.js. It allows users to perform bas
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
-4. Open your web browser and navigate to the local server address to use the calculator.
 
 ## Features
 
